@@ -1,4 +1,5 @@
 # gaetan-resume
+Note: to have the html version of your own resume, feel free to upload your resume to chat GPT and let AI handle the coding part of the work.
 
 ✅ Step 1: Create a Simple Serverless Resume Website
 We'll create a stylish single-page HTML site with your resume content and a photo at the top.
@@ -36,4 +37,5 @@ Go to Netlify.com, create an account.
 
 Drag and drop the HTML file and image to deploy instantly.
 
-
+If you read this demo this far... You have earned the right to see a copy of my resume:
+https://gaetanneo.github.io/gaetan-resume/
